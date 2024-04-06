@@ -10,7 +10,7 @@ Welcome to the ultimate resource hub for Machine Learning Engineering interview 
 - [How to Use This Repository](#how-to-use-this-repository)
 - [Fundamental Concepts](#fundamental-concepts)
 - [Algorithms and Data Structures](#algorithms-and-data-structures)
-- [Machine Learning Resources](#machine-learning-algorithms)
+- [Machine Learning Resources](#Machine-Learning-Research-Papers)
 - [System Design](#system-design)
 - [Additional Resources](#additional-resources)
 - [Contribution](#contribution)
@@ -41,7 +41,7 @@ To make the most out of this repository:
 - Advanced Data Structures: Trees, graphs, heaps.
 - Algorithm Techniques: Sorting, searching, recursion, dynamic programming, greedy algorithms.
 
-### Machine Learning Research Papers (Do give them a good read):
+### Machine Learning Research Papers
 
 The field of Machine Learning and AI is fast moving (atleast that’s how it has been since the launch of ChatGPT). There is so much incremental developments happening all the time that its very easy to get lost in the sea of research papers. The following list is a very small subset of curated papers which (in cronological order) have played a significant role in brining LLMs to the current stage:
 
